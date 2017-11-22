@@ -1,7 +1,3 @@
-The karbowanec is Ukrainian national cryptocurrency, just like Bitcoin but more anonymous and privacy centric with opaque and more analysis resistant blockchain. It is people's electronic cash, not connected to government or officials.
-
-## Building Karbo 
-
 ### On *nix
 
 Dependencies: GCC 4.7.3 or later, CMake 2.8.6 or later, and Boost 1.55.
